@@ -1,1 +1,3 @@
-https://yueyin97.github.io/SolarSystem-Demo/
+Preview on computer or VR headset:
+
+https://yueyin97.github.io/solar-system-demo/
